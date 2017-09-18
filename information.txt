@@ -1,0 +1,743 @@
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原材料 水,能量,atp
+auto_io1_0001 ̼原材料 水,能量,atp
+auto_io1_0001 ̼原材料 水,能量,atp
+auto_io1_0001 ̼原材料 水,能量,atp
+auto_io1_0001 ̼原材料 水,能量,产物为atp
+auto_io1_0001 ̼原材料 水,能量,产物为atp
+auto_io1_0001 ̼原材料 水,能量,产物为atp
+auto_io1_0001 ̼原材料 水,能量,产物为atp
+auto_io1_0001 ̼原材料 水,能量,产物为atp
+auto_io1_0001 ̼原材料 水,能量,产物为atp
+auto_io1_0001 ̼原材料 水,能量,产物为atp
+auto_io1_0001 ̼原材料 水,能量,产物为atp
+auto_io1_0001 ̼原材料 水,能量,产物为atp
+auto_io1_0001 ̼原材料 水,能量,产物为atp
+auto_io1_0001 ̼原材料 水,能量,产物为atp
+auto_io1_0001 ̼原材料 水,能量,产物为atp
+auto_io1_0001 ̼原材料 水,能量,产物为atp
+auto_io1_0001 ̼原材料 水,能量,产物为atp
+auto_io1_0001 ̼原材料 水,能量,为atp
+auto_io1_0001 ̼原材料 水,能量,产物为atp
+auto_io1_0001 ̼原材料 水,能量,atp
+auto_io1_0001 ̼原材料 水,能量,atp
+auto_io1_0001 ̼原材料 水,能量,atp
+auto_io1_0001 ̼原材料 水,能量,atp
+auto_io1_0001 ̼原材料 水,能量,atp
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+﻿1 原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原材料 水,能量,atp
+auto_io1_0001 ̼原材料为水,能量,产物 为atp
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,PiADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,PiADP&产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP产物为:ATP
+auto_io1_0001 ̼产物为:ATP原料为:能量,Pi,ADP
+auto_io1_0001 ̼产物为:ATP原料为:能量,Pi,ADP
+auto_io1_0001 ̼产物为:ATP原料为:能量,Pi,ADP
+auto_io1_0001 ̼原料为:能量,Pi,ADP产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi产物为:ATP,ADP
+auto_io1_0001 ̼原料为:能量,Pi,ADP产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi产物为:ATP,ADP
+auto_io1_0001 ̼原料为:能量,Pi产物为:ATP,ADP
+auto_io1_0001 ̼原料为:能量,Pi产物为:ATP,ADP
+auto_io1_0001 ̼原料为:能量,Pi,ADP产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi产物为:ATP,ADP
+auto_io1_0001 ̼原料为:能量,Pi产物为:ATP,ADP
+auto_io1_0001 ̼原料为:能量,Pi产物为:ATP,ADP
+auto_io1_0001 ̼原料为:能量,Pi产物为:ATP,ADP
+auto_io1_0001 ̼原料为:能量,Pi产物为:ATP,ADP
+auto_io1_0001 ̼原料为:能量,Pi产物为:ATP,ADP
+auto_io1_0001 ̼原料为:能量产物为:ATP,ADP,Pi
+auto_io1_0001 ̼原料为:能,Pi产物为:ATP,ADP
+auto_io1_0001 ̼原料为:能,Pi产物为:ATP,ADP
+auto_io1_0001 ̼原料为:能,Pi,产物为ATP,ADP
+auto_io1_0001 ̼原料为:能量,Pi,产物为ATP,ADP
+auto_io1_0001 ̼原料为:能量,Pi,产物为:ATP,ADP
+auto_io1_0001 ̼原料为:能量,Pi,ADP产物为:ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP产物为ATP
+auto_io1_0001 ̼原料为:能量,Pi,ADP;ATP
+auto_io1_0001 原料：能量,Pi和ADP;产物是ATP
+auto_io1_0001 原料：能量,Pi,Pi,Pi,Pi和ADP;产物是ATP
+auto_io1_0001 原料：能量,Pi和ADP;产物不是ATP
+auto_io1_0001 原料：不能量,Pi和ADP;产物是ATP
+auto_io1_0001 原料：能量,Pi和ADP;产物不是ATP
+auto_io1_0001 ;产物是ATP原料：能量,Pi和ADP
+auto_io1_0001 ;产物是ATP 原料：能量,Pi和ADP
+auto_io1_0001 ;产物是ATP 原料能量,Pi和ADP
+auto_io1_0001 ;产物是ATP; 原料能量,Pi和ADP
+auto_io1_0001 产物是ATP原料能量,Pi和ADP
+auto_io1_0001 原料能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料能量,Pi和ADP产物是ATP 
+auto_io1_0001 原料不能量,Pi和ADP产物是ATP 
+auto_io1_0001 ADP产物是ATP原料能量,Pi 
+auto_io1_0001 产物是ATP 原料能量,Pi和ADP 
+auto_io1_0001 原料能量,Pi和ADP产物是ATP 
+auto_io1_0001 产物是ATP原料能量,Pi和ADP 
+auto_io1_0001 产物是ATP原料能量,Pi和ADP
+auto_io1_0001 ATP原料能量,Pi和ADP产物是
+auto_io1_0001 产物是ATP原料能量,Pi和ADP
+auto_io1_006 O2 H
+auto_io1_006 O2 H
+auto_io1_006 O2 H
+auto_io1_006 O2 H
+auto_io1_006 O2 H
+auto_io1_006 O2 H
+auto_io1_006 O2 H
+auto_io1_006 O2 H
+auto_io1_006 O2 H
+auto_io1_006 O2 H
+auto_io1_006 O2
+auto_io1_006 O2
+auto_io1_006 O2 H
+auto_io1_006 O2
+auto_io1_006 O2
+auto_io1_006 O2 H
+auto_io1_006 O2 
+auto_io1_006 O2 H
+auto_io1_006 O2
+auto_io1_006 O2
+auto_io1_006 O2
+auto_io1_006 O2
+auto_io1_006 O2
+auto_io1_006 O2 H
+auto_io1_006 O2 H
+auto_io1_006 O2 H
+auto_io1_006 O2 H
+auto_io1_006 O2
+auto_io1_006 O2
+auto_io1_006 O2,H
+auto_io1_006 O2 H
+auto_io1_006 O2,H
+auto_io1_006 O2
+auto_io1_006 O2
+auto_io1_006 O2
+auto_io1_006 O2
+auto_io1_006 O2,H
+auto_io1_006 O2 H
+auto_io1_006 氧气 H
+auto_io1_006 氧气 H
+auto_io1_006 氧气 H
+auto_io1_006 氧气 H
+auto_io1_006 氧气  H 水
+auto_io1_006 氧气， H ，水
+auto_io1_006 氧气 ，水
+auto_io1_006 氧气 ，水
+auto_io1_006 氧气  H 
+auto_io1_006 氧气  H 
+auto_io1_006 氧气  H
+auto_io1_006 氧气  
+auto_io1_006 氧气  h
+auto_io1_006 o2  h
+auto_io1_006 djf
+auto_io1_006 o2,hhh
+auto_io1_006 o2,h h h
+auto_io1_006 o2,hhh
+auto_io1_006 氧气，氢离子
+auto_io1_006 氧气，氢里里子
+auto_io1_006 氧气，里里子
+2017_5 原料为:CO2,C5产物为:C3
+auto_io1_0002 产物为:C3
+auto_io1_0002 产物为:C3
+2017_5 原料为:CO2,C5 产物为:C3
+2017_5 原料为:CO2,C5 产物为:C3
+auto_io1_001 能量 Pi,ADP,H2O,CO2
+auto_io1_001 能量 ,Pi,ADP,H2O,CO2
+auto_io1_001 能量 ,Pi,ADP,H2O,CO2
+auto_io1_001 能量 ,Pi,ADP,H2O,CO2
+auto_io1_001 能量 ,Pi,ADP,H2O,CO2
+auto_io1_001 能量 ,Pi,ADP,H2O,CO2
+auto_io1_001 能量 ,Pi,ADP,H2O,CO2
+auto_io1_001 能量 ,Pi,ADP,H2O,CO2
+auto_io1_001 能量 ,Pi,ADP,H2O,CO2
+auto_io1_001 能量 ,Pi,ADP,H2O,CO2
+auto_io1_001 能量 ,Pi,ADP,H2O,CO2
+auto_io1_001 能量 ,Pi,ADP,H2O,CO2
+auto_io1_001 能量 ,Pi,ADP,H2O,CO2
+auto_io1_001 能量 ,Pi,ADP,H2O,CO2
+auto_io1_001 能量 ,Pi,ADP,H2O,CO2
+auto_io1_001 叶绿体
+auto_io1_001 叶绿体 是对的啊
+auto_io1_001 叶绿体 是对的啊
+auto_io1_001 叶绿体 是对的啊
+auto_io1_001 原料为:能量 Pi,ADP,H2O,CO2
+auto_io1_001 能量 Pi,ADP,H2O,CO2
+auto_io1_001 能量,Pi,ADP,H2O,CO2
+auto_io1_001 能量,Pi ADP,H2O,CO2
+auto_io1_001 能量,Pi ADP,H2O,CO2
+auto_io1_001 能量 Pi ADP,H2O,CO2
+auto_io1_001 能量Pi ADP,H2O,CO2
+auto_io1_001 hjhjkhl
+auto_io1_001 能量,Pi ADP,H2O,CO2,你是大白痴
+auto_io1_001 能量,Pi ADP,H2O,CO2
+auto_io1_001 能量,Pi ADP,H2O,CO2
+auto_io1_001 能量,Pi ADP,H2O
+auto_io1_001 能量,Pi ADP,H2O gggg
+auto_io1_001 能量,Pi ADP,H2O gggggggggg
+auto_io1_001 能量,Pi ADP,H2O ggggggggggggggggggg
+auto_io1_001 hjlkjfkljsjflj
+auto_io1_001 能量,Pi ADP,H2O hjlkjfkljsjflj
+auto_io1_001 能量,Pi ADP,H2O h
+auto_io1_001 能量,Pi ADP,H2O ggggggggggggggggggg
+auto_io1_001 能量,Pi ADP,H2O ggggggggggggggggggg
+auto_io1_001 能量,Pi ADP,H2O ggggggggggggggggggg
+auto_io1_001 能量,Pi ADP,H2O ggggggggggggggggggg
+auto_io1_001 能量,Pi ADP,H2O ggggggggggggggggggg
+auto_io1_001 能量,Pi ADP,H2O
+auto_io1_001 能量,Pi ADP,H2Oggggggggggggg
+auto_io1_001 能量,Pi ADP,H2O
+auto_io1_001 能量,Pi ADP,H2Ohhhh
+auto_io1_001 能量,Pi ADP,H2Ohhhh
+auto_io1_001 能量,Pi ADP,H2O,co2
+auto_io1_001 能量,Pi ADP,H2O,co2
+auto_io1_001 能量,Pi ADP,H2O,co2g
+auto_io1_001 能量,Pi ADP,H2O,co2,g
+auto_io1_001 能量,Pi ADP,H2O,co2,gmsdfsf
+auto_io1_001 能量,Pi ADP,H2O,co2,sdfsf
+auto_io1_001 sdfsf
+auto_io1_001 能量,Pi ADP,H2O,co2,sdfsf
+auto_io1_001 能量,Pi ADP,H2O,co2,sdfsf
+auto_io1_001 能量,Pi ADP,H2O,co2,sdfsf
+auto_io1_001 能量,Pi ADP,H2O,co2,sdfsf
+auto_io1_001 能量,Pi ADP,H2O,co2,sdfsf
+auto_io1_001 能量,Pi ADP,H2O,co2,sdfsf
+auto_io1_001 能量,Pi ADP,H2O,co2,sdfsf
+auto_io1_001 能量,Pi ADP,H2O,co2,sdfhtsf
+auto_io1_001 能量,Pi ADP,H2O,co2,sdfhtsf
+auto_io1_001 能量,Pi ADP,H2O,co2,sdfhtsf
+auto_io1_001 能量,Pi ADP,H2O,co2,sdfhtsf
+auto_io1_001 能量,Pi ADP,H2O,co2,sdfhtsf
+auto_io1_001 能量,Pi ADP,H2O,co2,jj
+auto_io1_001 能量,Pi ADP,H2O,co2,氢气
+auto_io1_001 能量,Pi ADP,H2O,co2,氢气
+auto_io1_001 能量,Pi ADP,H2O,co2,hjhjkhj
+auto_io1_001 能量,Pi ADP,H2O,co2,hjhjkhj
+auto_io1_001 能量,Pi ADP,H2O,co2,hjhjkhj
+auto_io1_001 能量,Pi ADP,H2O,co2,hjhjkhj
+auto_io1_001 能量,Pi ADP,H2O,co2,hjhjkhj
+auto_io1_001 能量,Pi ADP,H2O,co2,hjhjkhj
+auto_io1_001 能量,Pi ADP,H2O,co2,hjhjkhj
+auto_io1_001 能量,Pi ADP,H2O,co2,hjhjkhj
+auto_io1_001 能量,Pi ADP,H2O,co2,hjhjkhj
+auto_io1_001 能量,Pi ADP,H2O,co2,hjhjkhj
+auto_io1_001 能量,Pi ADP,H2O,co2,hjhjkhj
+auto_io1_001 能量,Pi ADP,H2O,co2,hjhjkhj
+auto_io1_001 能量,Pi ADP,H2O,co2,hjhjkhj
+auto_io1_001 能量,Pi ADP,H2O,co2,hjhjkhj
+auto_io1_001 能量,Pi ADP,H2O,co2,hjhjkhj
+auto_io1_001 能量,Pi ADP,H2O,co2,hjhjkhj
+auto_io1_001 能量,Pi ADP,H2O,co2,hjhjkhj
+auto_io1_001 能量,Pi ADP,H2O,co2
+auto_io1_001 能量,Pi,ADP,H2O,co2
+auto_io1_001 能量,Pi ADP,H2O,co2
+auto_io1_001 能量,Pi ADP,H2O,co2
+auto_io1_001 能量,Pi ADP,H2O,co2
+auto_io1_001 能量,Pi ADP,H2O,co2
+auto_io1_001 能量,Pi,ADP,H2O,co2
+auto_io1_001 能量,Pi,ADP,H2O,co2
+auto_io1_001 能量,Pi ADP,H2O,co2
+auto_io1_001 能量,Pi ADP,H2O,co2
+auto_io1_001 能量,Pi,ADP,H2O,co2,hhjhjkh
+auto_io1_001 能量,Pi,ADP,H2O,co2,hhjhjkh
+auto_io1_001 能量,Pi,ADP,H2O,co2,你是一个大傻逼
+auto_io1_001 能量,Pi,ADP,H2O,co2 xhjsj
+auto_io1_001 能量,Pi,ADP,H2O,co2,xhjsj
+auto_io1_001 能量,Pi,ADP,H2O,co2,xhjsj
+auto_io1_001 能量,Pi,ADP,H2O,co2,xhjsj
+auto_io1_001 能量,Pi,ADP,H2O,co2
+auto_io1_001 能量,Pi,ADP,H2O,co2,hjhj
+auto_io1_001 能量,Pi,ADP,H2O,co2,hjhj
+auto_io1_001 能量,Pi,ADP,H2O,co2,hjhj
+auto_io1_001 能量,Pi,ADP,H2O,co2,hjhj
+auto_io1_001 能量,Pi,ADP,H2O,co2,hjhj
+auto_io1_001 能量,Pi,ADP,H2O,co2,hjhj
+auto_io1_001 能量,Pi,ADP,H2O,co2hjhj
+auto_io1_001 能量,Pi,ADP,H2O,co2,hjhj
+auto_io1_001 能量,Pi,ADP,H2O,co2,hjhj
+auto_io1_001 能量,Pi,ADP,H2O,co2,hjhj
+auto_io1_001 能量,Pi,ADP,H2O,co2,hjhj2
+auto_io1_001 能量,Pi,ADP,H2O,co2,hjhj2222
+auto_io1_001 能量,Pi,ADP,H2O,co2,hjh
+auto_io1_001 能量,Pi,ADP,H2O,co2你是个大白痴
+auto_io1_001 你是个大白痴
+auto_io1_001 能量,Pi,ADP,H2O,co2你是
+auto_io1_001 能量,Pi,ADP,H2O,co2你是
+auto_io1_001 能量,Pi,ADP,H2O,co2你是个
+auto_io1_001 能量,Pi,ADP,H2O,co
+auto_io1_001 能量,Pi,ADP,H2,co
+auto_io1_001 能量,Pi,AD,H2,co
+auto_io1_001 能量,P,AD,H2,co
+auto_io1_001 能,P,AD,H2,co
+auto_io1_001 能量,Pi,ADP,H2O,co2你是个
+auto_io1_001 能量,Pi,ADP,H2O,co2
+auto_io1_001 能量,P,ADP,HO,co
+auto_io1_001 能量,Pi,ADP,H2O,co2
+auto_io1_001 你是个白痴
+auto_io1_001 能量,Pi,ADP,H2O,co2
+auto_io1_001 这个答案是能量,Pi,ADP,H2O,co2
+auto_io1_001 这个答案是能量,Pi,ADP,H2O,co2
+auto_io1_001 能量,Pi,ADP,H2O,co2
+auto_io1_001 你能量,Pi,ADP,H2O,co2
+auto_io1_001 我能量,Pi,ADP,H2O,co2
+auto_io1_001 这道题的答案能量,Pi,ADP,H2O,co2
+auto_io1_001 能量,Pi,ADP,H2O,co2ghhgf
+auto_io1_001 ghhgf
+auto_io1_001 能量,Pi,ADP,H2O,co2h
+auto_io1_001 能量,Pi,ADP,H2O,cho2
+auto_io1_001 这道题的答案能量,Pi,ADP,H2O,co2h
+auto_io1_001 原料有 ：能量,Pi,ADP,H2O,co2h
+auto_io1_001 这道题的原料有 ：能量,Pi,ADP,H2O,co2h
+auto_io1_001 的原料有 ：能量,Pi,ADP,H2O,co2h
+auto_io1_001 的原料有 ：能量,Pi,ADP,H2O,co2 hhh
+auto_io1_001 的原料有 ：能量,Pi,ADP,H2O,co2 H
+auto_io1_001 的原料有 ：能量,Pi,ADP,H2O,co2H
+auto_io1_001 的原料有 ：能量,PiADP,H2O,co2H
+auto_io1_001 的原料有 ：能量,Pi,ADP,H2O,co2H
+auto_io1_001 的原料有 ：能量,Pi,ADP,H2O,co2,H
+auto_io1_001 的原料有 ：能量,Pi,pi,pi,pi
+auto_io1_001 的原料有 ：能量,Pi,pi,pi
+auto_io1_001 的原料有 ：能量,Pi,pi
+auto_io1_001 的原料有 ：能量,Pi
+auto_io1_001 能量,Pi,pi,pi
+auto_io1_001 能量,Pi,
+auto_io1_001 能量,Pi，pi
+auto_io1_001 能量,Pi，pi，pi
+auto_io1_001 能量,Pi,pi,pi
+auto_io1_001 能量,Pi,pi
+auto_io1_001 能量,Pi,pi
+auto_io1_001 能量,Pi,Pi
+auto_io1_001 能量,Pi,Pi,Pi
+auto_io1_001 能量,Pi,Pi,Pi
+auto_io1_001 能量,Pi,Pi,Pih
+auto_io1_001 能量,Pi,ADP,H2O,CO2
+auto_io1_001 能量,Pi,ADP,H2O,CO2h
+auto_io1_001 能量,Pi,ADP,H2O,CO2hh
+auto_io1_001 能量,Pi,ADP,H2O,CO2hhhhh
+auto_io1_001 能量,Pi,ADP,H2O,CO2hhh
+auto_io1_001 能量,Pi,ADP,H2O,CO2
+auto_io1_001 能量,Pi,ADP,H2O,CO2,Pi,Pi,Pi
+auto_io1_001 能量,Pi,ADP,Pi,Pi,Pi
+auto_io1_001 能量,Pi,ADP,H2O,CO2,PiP,Pi
+auto_io1_001 能量,Pi,ADP,H2O,CO2,PiP
+auto_io1_001 能量,ADP,H2O,CO2,PiP
+auto_io1_001 能量,ADP,H2O,CO2,PiP
+auto_io1_001 能量,ADP,H2O,CO2,PiP
+auto_io1_001 能量,ADP,H2O,Pi,CO2,
+auto_io1_001 能量,ADP,H2O,Pi,CO2,
+auto_io1_001 能量,ADP,H2O,Pi,CO2
+auto_io1_001 能量,ADP,H2O,Pi,CO2c
+auto_io1_001 能量,ADP,H2O,Pi,CO2
+auto_io1_001 能量,ADPp,H2O,Pi,CO2
+auto_io1_001 能量,ADP,H2O,Pi,CO22
+auto_io1_001 能量,ADPp,H2O,Pi,CO2
+auto_io1_001 能量,ADPp,H2O,Pi,CO2
+auto_io1_001 你能量,ADPp,H2O,Pi,CO2
+auto_io1_001 你能量能量,ADPp,H2O,Pi,CO2
+auto_io1_001 你能量,ADPp,H2O,Pi,CO2
+auto_io1_001 你的能量超乎你想象,ADPp,H2O,Pi,CO2
+auto_io1_001 你的能量超乎你想象,ADPp,H2O,Pi,CO2
+auto_io1_001 你的能量超乎你想象,ADPp,H2O,Pi,CO2
+auto_io1_001 你的能量超乎你想象,ADPp,H2O,Pi,CO2
+auto_io1_001 能量,ADPp,H2O,Pi,CO2
+auto_io1_001 能量,ADP,H2O,Pi,CO2
+auto_io1_001 能量,ADPp,H2O,Pi,CO2
+auto_io1_001 能量,ADP,H2O,Pi,CO2
+auto_io1_001 你能量,ADP,H2O,Pi,CO2
+auto_io1_001 fghfh
+auto_io1_001 fg
+auto_io1_001 能量,ADP,H2O,Pi,CHO2
+auto_io1_001 能量,ADP,H2O,Pi,CO2
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2hh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hhhh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hhhhhhhh
+auto_io1_001 能量,ADP,H2O,Pi,co2
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 hh
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2,h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADPH2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pih,co2h
+auto_io1_001 能量,ADP,H2Oh,Pih,co2h
+auto_io1_001 能量,ADP,H2O,Pih,co2
+auto_io1_001 能量,ADP,H2O,Pi,co2
+auto_io1_001 能量,ADP,H2O,Pi,co2
+auto_io1_001 能量,ADP,H2Oh,Pi,co2
+auto_io1_001 能量,ADP,H2O,Pi,co2
+auto_io1_001 能量,ADP,H2O,Pih,co2
+auto_io1_001 能量,ADP,H2O,Pi,co2
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2 h
+auto_io1_001 能量,ADP,H2O,Pi,co2
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2
+auto_io1_001 能量,ADP,H2O,Pi,co2hhhhhhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhhh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hhhh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi co2hhh
+auto_io1_001 能量,ADP,H2O,Pico2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hhh
+auto_io1_001 能量,ADP,H2O和Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP和H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2,hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hh
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2
+auto_io1_001 能量,ADP,H2O,Pi,co2
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2h
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2hhh
+auto_io1_001 能量,ADP,H2O,Pi,不co2
+auto_io1_001 能量,ADP和,H2O,Pi,co2
+auto_io1_001 能量,ADP你好,H2O,Pi,co2
+auto_io1_001 能量,ADP,H2O,Pi,co2
+auto_io1_001 嘻嘻能量,ADP,H2O,Pi,co2
+auto_io1_001 能量,ADP,Pi,co2
+auto_io1_001 能量,ADP,Pi,co2
+auto_io1_001 能量,ADP,Pi,co2
+auto_io1_001 能量,与ADP,Pi,co2
+auto_io1_001 能量,我与你ADP,Pi,co2
+auto_io1_001 能量,我与你是最好的搭配ADP,Pi,co2
+auto_io1_001 能量,ADP,Pi,co2
+auto_io1_001 能量,ADP,Pi,co2
+auto_io1_001 能量,ADP,Pi,co2
+auto_io1_001 能量,ADP,Pi,co2
+auto_io1_001 能量,ADP,Pi,co2
+auto_io1_001 能量,ADP,Pi,co2
+auto_io1_001 能量与与与,ADP,Pi,co2
+auto_io1_001 能量,ADP,Pi,co2
+auto_io1_001 能量与与与与与,ADP,Pi,co2
+auto_io1_001 能量,ADP,Pihh,co2
+auto_io1_001 能量,ADP,Pih,co2
+auto_io1_001 能量,ADP,Pi,co2,水
+auto_io1_001 能量,ADP,Pi,co2,水与与与与与
+auto_io1_001 hj
+auto_io1_001 hj
+auto_io1_001 hjjj
+auto_io1_001 能量,光合作用好厉害ADP,Pi,co2
+auto_io1_001 能量,ADP,Pi,co2hh
+auto_io1_001 能量,ADP,Pi,co2 hh
+auto_io1_001 能量,ADP,Pi,co2 hhhhh
+auto_io1_001 能量,ADP,Pi,co2 hh
+auto_io1_001 能量,不ADP,H2O,Pi,co2
+auto_io1_001 能量,不ADP,H2O,Pi,co2
+auto_io1_001 能量,不ADP,H2O,Pi,co2
+auto_io1_001 能量,ADP,H2O,Pi,co2hh
+auto_io1_001 能量,ADP,Pi与,co2
+auto_io1_001 能量,ADP,Pi与,co2
+auto_io1_001 能量,ADP,Pi与,co2,h2o
+auto_io1_001 能量,ADP,Pi,co2,h2o
+auto_io1_001 能量,ADP,Pi,co2,h2o等
+auto_io1_001 能量,ADP,Pi,co2,h2o等
+auto_io1_001 能量,ADP,Pi,co2,h2o等
+auto_io1_001 能量,ADP,Pi,co2,h2o等
+auto_io1_001 能量,ADP,Pi,co2,h2o 等
+auto_io1_001 能量,ADP,Pi,co2,h2o等
+auto_io1_001 能量,ADP,Pi,co2,h2o等
+auto_io1_001 能量,ADP,Pi,co2,h2o等
+auto_io1_001 能量,ADP,Pi,co2,h2o等
+auto_io1_001 能量,ADP,H2O,Pi,co2hh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hhh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hhhh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hhhhh
+auto_io1_001 能量,ADP,H2O,Pi,co2 hhhhh
+auto_io1_001 hhhhh
+auto_io1_001 hh
+auto_io1_001 hhhhh
+auto_io1_001 hhhhh
+auto_io1_001 hhhhh
+auto_io1_001 hh
+auto_io1_001 hhhhh
+auto_io1_001 
+auto_io1_001 
+auto_io1_001  
+auto_io1_001    
+auto_io1_001  0 请不要随意作答，谢谢!
+auto_io1_001 叶绿体 1 恭喜你，你答对了！棒棒的!
+auto_io1_001 叶绿体哇 1 恭喜你，你答对了！棒棒的!
+auto_io1_003 H2O 1 恭喜你，你答对了！棒棒的!
+auto_io1_003 原料为: 0 你的答案有误，请参考答案解析，还需要继续努力！
+auto_io1_003 原料为: 0 你的答案有误，请参考答案解析，还需要继续努力！
+auto_io1_003 原料为: 0 你的答案有误，请参考答案解析，还需要继续努力！
+auto_io1_003 原料为: 0 你的答案有误，请参考答案解析，还需要继续努力！
+auto_io1_003 H2O 1 恭喜你，你答对了！棒棒的!
+auto_io1_003  0 请不要随意作答，谢谢!
+auto_io1_003    0 请不要随意作答，谢谢!
+auto_io1_003    0 请不要随意作答，谢谢!
+auto_io1_003    0 请不要随意作答，谢谢!
+auto_io1_003 原料为:H2O 1 恭喜你，你答对了！棒棒的!
+auto_io1_003 原料为:H2O 1 恭喜你，你答对了！棒棒的!
+auto_io1_003 原料为:H2O 1 恭喜你，你答对了！棒棒的!
+auto_io1_003 原料为:H2O 1 恭喜你，你答对了！棒棒的!
+auto_io1_003 原料为:H2O 1 恭喜你，你答对了！棒棒的!
+auto_io1_003 原料为: 0 你的答案有误，请参考答案解析，还需要继续努力！
+auto_io1_003 原料为:H2O 1 恭喜你，你答对了！棒棒的!
+auto_io1_003 原料为:需要水和二氧化碳，以及氧 0 请不要随意作答，谢谢!
+auto_io1_003 原料为:需要水和二氧化碳，以及氧 0 请不要随意作答，谢谢!
+auto_io1_003 原料为:需要水和二氧化碳，以及氧 2 答案不完全正确，缺少能量 Pi ADP ，完整答案请参考答案解析，还需要继续努力
+auto_io1_003 水， 氧， 碳 1 答案不完全正确，缺少能量 Pi ADP 二氧化碳 ，完整答案请参考答案解析，还需要继续努力
+auto_io1_003 原料水 1 答案不完全正确，缺少能量 Pi ADP 二氧化碳 ，完整答案请参考答案解析，还需要继续努力
+auto_io1_003 产出碳 0 你的答案有误，请参考答案解析，还需要继续努力！
+auto_io1_003 生成二氧化碳 0 你的答案有误，请参考答案解析，还需要继续努力！
+auto_io1_003 光合作用作用在叶绿体 1 恭喜你，你答对了！棒棒的!
+auto_io1_003 叶绿体外的光和作用 1 恭喜你，你答对了！棒棒的!
+auto_io1_003 叶绿体外的光和作用 1 恭喜你，你答对了！棒棒的!
+auto_io1_003 叶绿体外的光和作用 1 恭喜你，你答对了！棒棒的!
+auto_io1_003 叶绿体外的光和作用 1 恭喜你，你答对了！棒棒的!
+auto_loc_007 叶绿体 1 恭喜你，你答对了！棒棒的!
+auto_loc_007 叶绿体 1 恭喜你，你答对了！棒棒的!
+auto_io1_001 H2O,CO2 0 请不要随意作答，谢谢!
+auto_io1_001 H2O,CO2 0 请不要随意作答，谢谢!
+auto_io1_001 能量,Pi,ADP,H2O,CO22 4 答案不完全正确，缺少二氧化碳,，完整答案请参考答案解析，还需要继续努力
+auto_io1_001 能量,Pi,ADP,H2O,CO2 5 恭喜你，你答对了！棒棒的!
+auto_io1_001 能量,Pi,ADP, 3 答案不完全正确，缺少水,二氧化碳,，完整答案请参考答案解析，还需要继续努力
+auto_io1_001 能量,Pi,ADP, 3 答案不完全正确，缺少水，二氧化碳，完整答案请参考答案解析，还需要继续努力
+auto_io1_001 能量,Pi,ADP, 3 答案不完全正确，缺少水，二氧化碳，完整答案请参考答案解析，还需要继续努力
+auto_io1_001 原料为Pi,氢元素，氧元素，二氧化碳 2 答案不完全正确，缺少能量，ADP，水，完整答案请参考答案解析，还需要继续努力
+auto_io1_001 产物为碳元素 0 你的答案有误，请参考答案解析，还需要继续努力！
+auto_io1_001 植物叶片，有叶绿素的地方附近 0 你的答案有误，请参考答案解析，还需要继续努力！
+auto_loc_007 叶绿体 1 恭喜你，你答对了！棒棒的!
+auto_io1_001  叶绿体外的光和作用 1 恭喜你，你答对了！棒棒的!
+auto_io1_001  叶绿体外的光和作用是这样么？ 1 恭喜你，你答对了！棒棒的!
+auto_io1_001  叶绿体外的光和作用是这样么？ 0 请不要随意作答，谢谢!
